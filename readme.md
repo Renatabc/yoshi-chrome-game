@@ -8,6 +8,7 @@ Concluído!!!:sunrise_over_mountains:
 
 ## Demonstração da aplicação
 [Clique aqui para jogar](https://renatabc.github.io/yoshi-chrome-game/)
+**Utilize a "barra de espaço" para pular"**
 
 ## Pré-requisitos
 - Para **baixar o repositório**, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
