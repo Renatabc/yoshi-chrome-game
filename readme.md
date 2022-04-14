@@ -1,6 +1,8 @@
 # Yoshi Chrome Game
 Game baseado no jogo "dinossauro do google chrome" utilizando elementos e personagens de Super Mario, como atividade prática do bootcamp *"Órbi Web Games Developer"*, ofertado pela Digital Innovation One. 
 
+![yoshi](https://user-images.githubusercontent.com/93830634/163469592-5eac0925-bf4f-43b7-a184-c72dc1403288.png)
+
 ### Status do projeto
 Concluído!!!:sunrise_over_mountains:
 
