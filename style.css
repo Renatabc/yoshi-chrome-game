@@ -1,0 +1,53 @@
+.background {
+  position: absolute;
+  bottom: 0px;
+  background-image: url('background.png');
+  background-repeat: repeat-x;
+  animation: slideright 600s infinite linear;
+  -webkit-animation: slideright 600s infinite linear;
+  -webkit-filter: grayscale(30%);
+  width: 100%;
+  height: 900px;
+}
+
+@keyframes slideright {
+  from {
+      background-position: 70000%;
+  }
+  to {
+      background-position: 0%;
+  }
+}
+
+.yoshi{
+  width: 60px;
+  height: 60px;
+  background-image: url('yoshi.png');
+  animation: play .5s steps(2) infinite;
+  -webkit-animation: play .5s steps(2) infinite;
+  position: absolute;
+  bottom: 50px;
+}
+
+.plant{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: 50px;
+  background-image: url('planta-carnivora.png');
+  animation: play .5s steps(2) infinite;
+  -webkit-animation: play .5s steps(2) infinite;
+}
+
+@keyframes play {
+	from { background-position: 0px; }
+	to { background-position: -120px; }
+}
+
+.game-over {
+  text-align: center;
+  color: #1b7e2f;
+  margin: 50px 0;
+  font-family: 'Ranchers', cursive;
+  font-size: 100px;
+}
