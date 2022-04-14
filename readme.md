@@ -7,7 +7,7 @@ Game baseado no jogo "dinossauro do google chrome" utilizando elementos e person
 Concluído!!!:sunrise_over_mountains:
 
 ## Demonstração da aplicação
-[Clique aqui para jogar]
+[Clique aqui para jogar](https://renatabc.github.io/yoshi-chrome-game/)
 
 ## Pré-requisitos
 - Para **baixar o repositório**, recomenda-se o aplicativo [GIT](https://git-scm.com/downloads).
